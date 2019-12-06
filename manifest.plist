@@ -17,13 +17,13 @@
 					<key>kind</key>
 					<string>display-image</string>
 					<key>url</key>
-					<string>http://img.flashgogo.top/1024x1024.png</string>
+					<string>https://raw.githubusercontent.com/zhao1zhihui/crm//master/1024x1024.png?raw=true</string>
 				</dict>
 				<dict>
 					<key>kind</key>
 					<string>full-size-image</string>
 					<key>url</key>
-					<string>http://img.flashgogo.top/1024x1024.png</string>
+					<string>https://raw.githubusercontent.com/zhao1zhihui/crm//master/1024x1024.png?raw=true</string>
 				</dict>
 			</array>
 			<key>metadata</key>
